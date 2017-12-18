@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+# 환영합니다! 재미그래밍입니다
 
-You can use the [editor on GitHub](https://github.com/Fungramming/Fungramming-0/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+>재미그래밍 0기 스터디를 할 때는 사실 재미그래밍이란 이름이 없었습니다. 단지 블랙루비 내의 스터디였을 뿐입니다.
+>
+>그런데 저희가 나름의 체계를 가지고 매주 공부를 해나가다 보니 도움이 많이 되었고, 그 과정에서 재미 또한 잃지 않고 즐겁게 공부할 수 있었습니다.
+>
+>만족스러웠던 이 스터디를 다른 사람들과도 같이 지속적으로 이어 나가고 싶어 재미그래밍이라는 이름의 스터디를 정식으로 만들어 지금까지 진행하고 있습니다.
 
-### Markdown
+## 재미그래밍 0기 스터디 소개
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- - -
 
-```markdown
-Syntax highlighted code block
+>재미그래밍의 뿌리가 된 0기 스터디를 소개합니다.
 
-# Header 1
-## Header 2
-### Header 3
+### 일시
 
-- Bulleted
-- List
+2017.03 ~ 2017.05 (11주)
 
-1. Numbered
-2. List
+### 인원 및 구성
 
-**Bold** and _Italic_ and `Code` text
+블랙루비 내 개발자 3명
 
-[Link](url) and ![Image](src)
-```
+### 주제
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+파이썬 및 웹 기초
 
-### Jekyll Themes
+### 목표
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Fungramming/Fungramming-0/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- 파이썬 언어를 사용하여 프로그램을 만들 수 있다.
+- HTML, CSS, JavaScript의 기초를 배운다.
+- 파이썬으로 웹 크롤러를 만든다.
+- 웹 어플을 만든다.
 
-### Support or Contact
+### 커리큘럼
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 1주차: 파이썬 기초
+- 2주차: 파이썬 응용
+- 3주차: 웹 기초
+- 4주차: 웹 기초, 웹 크롤러
+- 5주차: 웹 크롤러
+- 6주차: 프로그램 개발
+- 7주차: 프로그램 개발
+- 8주차: 웹 어플리케이션
+- 9주차: 플라스크, 부트스트랩
+- 10주차: 플라스크, 깃
+- 11주차: 플라스크, 데이터베이스
+
+![books](/assets/books.PNG)
+
+<br>
+
+### 스터디 방식
+
+- __일주일에 한 권씩__: 일주일에 한 권씩 공부하고, 공부한 내용을 공유한다.
+
+- __실습, 프로젝트 위주__: [코딩도장](http://codingdojang.com/)으로 코딩문제를 풀어보는 시간을 가지고 웹사이트, 웹어플 등 실제 구현 가능한 프로그램을 개발한다.
+
+- __깊이보단 넓게 공부한다__: 웹 어플을 만들기 위한 HTML, python부터 git까지 모든 과정을 중요한 것 위주로 공부한다.
+
+- __그래도 깊이는 있다__: HTML, CSS, JavaScript는 깊게 공부하지 못했지만, 파이썬, 크롤러, 플라스크를 깊이 있게 배워 결과적으로 웹 어플을 완성시킬 수 있었다.
